@@ -1,0 +1,21 @@
+# PixPin
+
+## Windows
+[https://download.pixpinapp.com/PixPin_1.7.6.0.exe](https://download.pixpinapp.com/PixPin_1.7.6.0.exe)
+[https://download.pixpinapp.com/PixPin_1.7.5.0.exe](https://download.pixpinapp.com/PixPin_1.7.5.0.exe)
+[https://download.pixpinapp.com/PixPin_1.7.4.0.exe](https://download.pixpinapp.com/PixPin_1.7.4.0.exe)
+[https://download.pixpinapp.com/PixPin_1.7.3.0.exe](https://download.pixpinapp.com/PixPin_1.7.3.0.exe)
+[https://download.pixpinapp.com/PixPin_1.7.2.0.exe](https://download.pixpinapp.com/PixPin_1.7.2.0.exe)
+[https://download.pixpinapp.com/PixPin_1.7.1.0.exe](https://download.pixpinapp.com/PixPin_1.7.1.0.exe)
+[https://download.pixpinapp.com/PixPin_1.7.0.0.exe](https://download.pixpinapp.com/PixPin_1.7.0.0.exe)
+[https://download.pixpinapp.com/PixPin_1.6.0.0.exe](https://download.pixpinapp.com/PixPin_1.6.0.0.exe)
+[https://download.pixpinapp.com/PixPin_1.5.0.0.exe](https://download.pixpinapp.com/PixPin_1.5.0.0.exe)
+[https://download.pixpinapp.com/PixPin_1.4.0.1.exe](https://download.pixpinapp.com/PixPin_1.4.0.1.exe)
+[https://download.pixpinapp.com/PixPin_1.4.0.0.exe](https://download.pixpinapp.com/PixPin_1.4.0.0.exe)
+[https://download.pixpinapp.com/PixPin_1.3.1.0.exe](https://download.pixpinapp.com/PixPin_1.3.1.0.exe)
+[https://download.pixpinapp.com/PixPin_1.1.3.0.exe](https://download.pixpinapp.com/PixPin_1.1.3.0.exe)
+[https://download.pixpinapp.com/PixPin_1.1.1.0.exe](https://download.pixpinapp.com/PixPin_1.1.1.0.exe)
+[https://download.pixpinapp.com/PixPin_1.1.0.0.exe](https://download.pixpinapp.com/PixPin_1.1.0.0.exe)
+[https://download.pixpinapp.com/PixPin_1.0.9.1.exe](https://download.pixpinapp.com/PixPin_1.0.9.1.exe)
+[https://download.pixpinapp.com/PixPin_1.0.9.0.exe](https://download.pixpinapp.com/PixPin_1.0.9.0.exe)
+[https://download.pixpinapp.com/PixPin_1.0.8.1.exe](https://download.pixpinapp.com/PixPin_1.0.8.1.exe)
