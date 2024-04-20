@@ -19,6 +19,7 @@ jobs:
 
       - name: Install markdownlint-cli
         run: npm install -g markdownlint-cli
+        shell: bash
 
       - name: Format
         run: markdownlint-cli --fix .
