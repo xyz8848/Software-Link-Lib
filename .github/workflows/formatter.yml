@@ -22,7 +22,7 @@ jobs:
         shell: bash
 
       - name: Format
-        run: markdownlint-cli --fix .
+        run: markdownlint --fix .
 
       - name: Commit
         run: |
