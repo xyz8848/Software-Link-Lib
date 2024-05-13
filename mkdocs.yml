@@ -1,0 +1,20 @@
+site_name: Software Link Lib
+site_url: https://linklib.xyz8848.com/
+repo_url: https://github.com/xyz8848/Software-Link-Lib
+repo_name: xyz8848/Software-Link-Lib
+copyright: Copyright &copy; <a href="https://linklib.xyz8848.com/">linklib.xyz8848.com</a>
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt
+  language: zh
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/xyz8848
