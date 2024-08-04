@@ -10,10 +10,6 @@ theme:
     repo: fontawesome/brands/git-alt
   language: zh
 
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
-
 extra:
   social:
     - icon: fontawesome/brands/github
