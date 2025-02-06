@@ -1,6 +1,7 @@
 # PixPin
 
 ## Windows
+- [https://download.pixpin.cn/PixPin_1.9.11.8.exe](https://download.pixpin.cn/PixPin_1.9.11.8.exe)
 - [https://download.pixpinapp.com/PixPin_1.9.5.0.exe](https://download.pixpinapp.com/PixPin_1.9.5.0.exe)
 - [https://download.pixpinapp.com/PixPin_1.8.22.0.exe](https://download.pixpinapp.com/PixPin_1.8.22.0.exe)
 - [https://download.pixpinapp.com/PixPin_1.7.6.0.exe](https://download.pixpinapp.com/PixPin_1.7.6.0.exe)
