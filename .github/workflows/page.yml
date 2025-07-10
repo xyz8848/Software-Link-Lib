@@ -1,11 +1,11 @@
-name: build
+name: page
 on:
   push:
     branches: [ "*" ]
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,12 +26,21 @@ jobs:
       - name: Build site
         run: mkdocs build
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@latest
         with:
-          target_branch: gh-pages
-          build_dir: site
-          fqdn: linklib.xyz8848.com
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: ./site
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
