@@ -2,6 +2,7 @@
 
 ## Android
 - Latest (legacy) [https://api-takumi.mihoyo.com/event/download_porter/link/hkrpg_cn/official/android_defaultweb](https://api-takumi.mihoyo.com/event/download_porter/link/hkrpg_cn/official/android_defaultweb)
+- 3.7.0 [https://autopatchcn.bhsr.com/client/cn/20251020182328_VZxTRov5ux3oHfOu/gw_An_C/StarRailCloud_3.7.0.apk](https://autopatchcn.bhsr.com/client/cn/20251020182328_VZxTRov5ux3oHfOu/gw_An_C/StarRailCloud_3.7.0.apk)
 - 3.6.0 [https://autopatchcn.bhsr.com/client/cn/20250909174035_2haTz4ocOUMmIdVB/gw_An_C/StarRailCloud_3.6.0.apk](https://autopatchcn.bhsr.com/client/cn/20250909174035_2haTz4ocOUMmIdVB/gw_An_C/StarRailCloud_3.6.0.apk)
 - 3.4.0 [https://autopatchcn.bhsr.com/client/cn/20250623143521_dimz8G9PTTLhnby2/gw_An_C/StarRailCloud_3.4.0.apk](https://autopatchcn.bhsr.com/client/cn/20250623143521_dimz8G9PTTLhnby2/gw_An_C/StarRailCloud_3.4.0.apk)
 - 3.3.0 [https://autopatchcn.bhsr.com/client/cn/20250506172613_o4rW5KrlvZJioLNI/gw_An_C/StarRailCloud_3.3.0.apk](https://autopatchcn.bhsr.com/client/cn/20250506172613_o4rW5KrlvZJioLNI/gw_An_C/StarRailCloud_3.3.0.apk)
