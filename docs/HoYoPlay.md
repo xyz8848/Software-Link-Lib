@@ -1,5 +1,6 @@
 # HoYoPlay
 
+- 1.11.2.301 [https://hyp-webstatic.mihoyo.com/hyp-client/miHoYoLauncher_1.11.exe](https://hyp-webstatic.mihoyo.com/hyp-client/miHoYoLauncher_1.11.exe)
 - 1.10.1.283 [https://hyp-webstatic.mihoyo.com/hyp-client/miHoYoLauncher_1.10.exe](https://hyp-webstatic.mihoyo.com/hyp-client/miHoYoLauncher_1.10.exe)
 - 1.9.0.276 [https://hyp-webstatic.mihoyo.com/hyp-client/miHoYoLauncher_1.9.exe](https://hyp-webstatic.mihoyo.com/hyp-client/miHoYoLauncher_1.9.exe)
 - 1.7.3
